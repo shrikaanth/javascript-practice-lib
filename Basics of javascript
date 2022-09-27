@@ -1,0 +1,18 @@
+//Lets understand the javascript in more details
+/*the above was the single line comment and this one 
+   over here is the example of Multi-line Comment*/
+   
+   //Lets understand variable
+   
+   var a=10; //var is a keyword with which can be easily overwritten
+   let d=20; // cannot be overwrite easily was introduced in ES6
+  
+   const c=30; // read only variable its always constant throughout the code.
+   
+   //Lets understand variable Decleration
+   
+   var camelCase="hello";
+   var a=20;
+   
+   let a=20+0;
+   
