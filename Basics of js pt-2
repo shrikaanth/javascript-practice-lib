@@ -1,0 +1,41 @@
+//This file conatins the basic operations we can perform with variables
+
+var a=20+30;
+
+var ab=20-30;
+
+var abc=20*30;
+
+var abcd=20 / 30;
+
+var abcd=20 % 30;
+
+a++; //Increment operator could be use instead of a=a+1
+
+a--; //decrement operator could be use instead of a=a-1
+
+a+= asigment operator could be used instead of a=a+10;
+a-= asigment operator could be used instead of a=a-10;
+
+a*= asigment operator could be used instead of a=a*10;
+
+
+a/= asigment operator could be used instead of a=a/10;
+
+a -=  6;  || a += 6;
+b -= 15;  ||
+c -= 1;   ||
+
+//same function could be performed with decimal also
+
+
+var a=20.0  + 30.0;
+
+var ab=20.00 - 30.00;
+
+var abc=20.00 * 30.00;
+
+var abcd=20.00 / 30.00;
+
+var abcd=20.00 % 30.00;
+
