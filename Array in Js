@@ -1,0 +1,12 @@
+array in javascript
+const myArray=["Shrikaanth",21];
+
+// Multidimensinol 
+const myArray=[["Shrikaanth",21],["Never to be ",21]];
+
+
+operations on Array on Javascript
+push() //adds the element at the end of the arry
+pop() //removes the element at the end of the array
+shift() removes the elemnent from the begining
+unshift() //adds the element at the begining
